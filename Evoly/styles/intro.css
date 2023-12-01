@@ -15,6 +15,13 @@ body {
     padding: 3em 3em;
     box-shadow: 10px 10px 10px grey;
     border-radius: 15px;
+    position: relative;
+}
+
+.redpin{
+    position: absolute;
+    top: -2.5rem;
+    left: 48%;
 }
 
 .container-firstpart {
